@@ -8,6 +8,10 @@ This example is to show ...
 
 ## Purpose
 
+Blah blah, more words here...
+
 ## Deployment
+
+Deploy this mutha, yeah boy!
 
 ## How to Contribute
