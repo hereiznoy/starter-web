@@ -15,3 +15,7 @@ Blah blah, more words here...
 Deploy this mutha, yeah boy!
 
 ## How to Contribute
+
+### Copyright
+
+2014 Git.Training
