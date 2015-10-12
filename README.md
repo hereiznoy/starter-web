@@ -16,6 +16,8 @@ Deploy this mutha, yeah boy!
 
 ## How to Contribute
 
+Please for this repo...
+
 ### Copyright
 
 2014 Git.Training
