@@ -18,6 +18,10 @@ Deploy this mutha, yeah boy!
 
 Please for this repo...
 
+## Thanks
+
+Thanks to all!
+
 ### Copyright
 
 2014 Git.Training
