@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This is a simple website project for showing how to do some git-ty stuff.
+This is a simple website project for showing how to do some git-ty stuff. More changes from myfeature branch.
 
 ## Introduction
 
